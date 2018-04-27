@@ -1,7 +1,7 @@
 # Property used on app startup to check the config server status
 configserver:
     name: Registry from git config server
-    status: Connected to the Registry222222 config server!
+    status: Connected to the Registry4444444 config server!
 
 # Default JWT secret token (to be changed in production!)
 jhipster:
